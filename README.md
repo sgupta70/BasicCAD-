@@ -102,7 +102,7 @@ This assignment was to create the tire for the caster. We had to make a shape an
 
 ### Image
 
-![The Tire](image/TheTire.png)
+![The Tire](images/TheTire.png)
 
 ### Reflection
 
