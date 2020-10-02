@@ -51,6 +51,8 @@ The next thing we had to do was making the mount on top of the base. The dimensi
 
 ### Image
 
+![The Mount](image/TheMount.png)
+
 ### Reflection
 
 I learned how to 
@@ -73,6 +75,8 @@ For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we h
 [The Fork in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/bf3cf79feb8d1de1e3f3cfff)
 
 ### Image
+
+![The Fork](image/TheFork.png)
 
 ### Reflection
 
@@ -97,6 +101,8 @@ This assignment was to create the tire for the caster. We had to make a shape an
 [The Tire in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/4e6ac61326d60e4eba3a5c7e)
 
 ### Image
+
+![The Tire](image/TheTire.png)
 
 ### Reflection
 
