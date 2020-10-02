@@ -51,7 +51,7 @@ The next thing we had to do was making the mount on top of the base. The dimensi
 
 ### Image
 
-![The Mount](images/TheMount.png)
+![The Mount](images/TheBase.png)
 
 ### Reflection
 
