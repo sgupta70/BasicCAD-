@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-![The Base](images/TheBase.png)
+![The Base](images/Base.png)
 
 ### Reflection
 
