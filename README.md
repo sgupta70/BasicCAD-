@@ -71,9 +71,9 @@ When I first started making the mount I was trying to do the whole thing seperat
 ### Reflection
 
 [I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=wQlTfOw8rYQ&feature=emb_logo) I learned about 
-*mirroring 
-*using fillets 
-*extruding 
+* mirroring 
+* using fillets 
+* extruding 
 
 ---
 
