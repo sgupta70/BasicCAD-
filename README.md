@@ -113,6 +113,7 @@ This assignment was to create the tire for the caster. We had to make a shape an
 * revole the sketch 
 * use fillet 
 
+I enjoyed using the revolve feature, but at first it was tricky for me to maek the trapezoid and get all the dimensions right. But after I got past that it was pretty easy. 
 
 ---
 
