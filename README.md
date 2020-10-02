@@ -54,7 +54,7 @@ The next thing we had to do was making the mount on top of the base. The dimensi
 ### Reflection
 
 I learned how to 
-* chose already existing things and build on top 
+* choose already existing things and build on top 
 * extrude 
 
 When I first started making the mount I was trying to do the whole thing seperatly. I was trying to put in all the dimensions for the holes again. I later got help from Mr. Helmstetter and he showed me how to build the mount right on top of the base. 
@@ -65,6 +65,8 @@ When I first started making the mount I was trying to do the whole thing seperat
 ## Fork
 
 ### Description
+
+For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we had to create a rectangle which was 15 mm x 5 mm, and 75 mm thick. Then two circles one 15 mm the other 20 mm, and 60 mm thick. 
 
 ### Evidence
 
