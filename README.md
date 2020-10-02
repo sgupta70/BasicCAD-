@@ -19,7 +19,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/070360825e3781ef7a2730ce)
 
 ### Image
 
@@ -43,11 +43,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The next thing we had to do was making the mount on top of the base. 
+
 ### Evidence
 
 ### Image
 
 ### Reflection
+
+When I first started making the mount I was trying to do the whole thing seperatly. I was trying to put in all the dimensions for the holes again. I later got help from Mr. Helmstetter and he showed me how to build the mount right on top of the base. 
 
 ---
 
@@ -55,6 +59,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
+
+
 
 ### Evidence
 
@@ -69,7 +75,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+This assignment was to create the tire for the cster. We had to make a shape and then learn how to revolve it around a line. 
+
 ### Evidence
+
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/4e6ac61326d60e4eba3a5c7e)
 
 ### Image
 
