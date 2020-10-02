@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
-The next thing we had to do was making the mount on top of the base. 
+The next thing we had to do was making the mount on top of the base. The dimensions of the mount was 120 mm x 120 mm and 8 mm thick. It needed 4 holes, I used the same ones as the base (10 mm wide and 20 mm from the edge). 
 
 ### Evidence
 
@@ -52,6 +52,10 @@ The next thing we had to do was making the mount on top of the base.
 ### Image
 
 ### Reflection
+
+I learned how to 
+* chose already existing things and build on top 
+* extrude 
 
 When I first started making the mount I was trying to do the whole thing seperatly. I was trying to put in all the dimensions for the holes again. I later got help from Mr. Helmstetter and he showed me how to build the mount right on top of the base. 
 
@@ -91,6 +95,13 @@ This assignment was to create the tire for the caster. We had to make a shape an
 ### Image
 
 ### Reflection
+
+[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=ReEGioIYSus&feature=emb_logo) I learned how to 
+* sketch a trapezoid 
+* use constuction lines 
+* revole the sketch 
+* use fillet 
+
 
 ---
 
