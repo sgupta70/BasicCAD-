@@ -47,6 +47,8 @@ The next thing we had to do was making the mount on top of the base.
 
 ### Evidence
 
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/070360825e3781ef7a2730ce)
+
 ### Image
 
 ### Reflection
@@ -60,13 +62,18 @@ When I first started making the mount I was trying to do the whole thing seperat
 
 ### Description
 
-
-
 ### Evidence
+
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/bf3cf79feb8d1de1e3f3cfff)
 
 ### Image
 
 ### Reflection
+
+[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=wQlTfOw8rYQ&feature=emb_logo) I learned about 
+*mirroring 
+*using fillets 
+*extruding 
 
 ---
 
@@ -75,7 +82,7 @@ When I first started making the mount I was trying to do the whole thing seperat
 
 ### Description
 
-This assignment was to create the tire for the cster. We had to make a shape and then learn how to revolve it around a line. 
+This assignment was to create the tire for the caster. We had to make a shape and then learn how to revolve it around a line. 
 
 ### Evidence
 
