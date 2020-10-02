@@ -55,11 +55,11 @@ The next thing we had to do was making the mount on top of the base. The dimensi
 
 ### Reflection
 
-I learned how to 
+I tried doing it bymyself, but then I got some help. I learned how to 
 * choose already existing things and build on top 
 * extrude 
 
-When I first started making the mount I was trying to do the whole thing seperatly. I was trying to put in all the dimensions for the holes again. I later got help from Mr. Helmstetter and he showed me how to build the mount right on top of the base. 
+When I first started making the mount I was trying to do the whole thing seperatly. I was trying to put in all the dimensions for the holes again. I later got help from Mr. Helmstetter and he showed me how to build the mount right on top of the base. It was a lot of fun learning new ways to make things. 
 
 ---
 
@@ -68,7 +68,7 @@ When I first started making the mount I was trying to do the whole thing seperat
 
 ### Description
 
-For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we had to create a rectangle which was 15 mm x 5 mm, and 75 mm thick. Then two circles one 15 mm the other 20 mm, and 60 mm thick. 
+For the fork we had to sketch a circle which was 80 mm in diameter and 8 mm thick. Then we had to create a rectangle which was 15 mm x 5 mm, and 75 mm thick. Then two circles one 15 mm the other 20 mm, and 60 mm thick. 
 
 ### Evidence
 
@@ -84,8 +84,9 @@ For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we h
 * mirroring 
 * using fillets 
 * extruding 
+* sketching 
 
-This was super fun to make, it wasn't too hard for me.
+This was super fun to make, it wasn't too hard for me. I really enjoyed seeing how I could mirror a whole piece so I didn't have to make it again. 
 
 ---
 
@@ -94,7 +95,7 @@ This was super fun to make, it wasn't too hard for me.
 
 ### Description
 
-This assignment was to create the tire for the caster. We had to make a shape and then learn how to revolve it around a line. 
+This assignment was to create the tire for the caster. We had to make a shape and then learn how to revolve it around a line. The trapezoid was 20 mm and 10 mm from the vertical line. The top line is 55 mm from the horizontal line, and the bottom line is 40 mm from the horizontal line. 
 
 ### Evidence
 
