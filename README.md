@@ -51,7 +51,7 @@ The next thing we had to do was making the mount on top of the base. The dimensi
 
 ### Image
 
-![The Mount](image/TheMount.png)
+![The Mount](images/TheMount.png)
 
 ### Reflection
 
@@ -76,7 +76,7 @@ For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we h
 
 ### Image
 
-![The Fork](image/TheFork.png)
+![The Fork](images/TheFork.png)
 
 ### Reflection
 
