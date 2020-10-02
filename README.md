@@ -109,7 +109,7 @@ This assignment was to create the tire for the caster. We had to make a shape an
 
 [I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=ReEGioIYSus&feature=emb_logo) I learned how to 
 * sketch a trapezoid 
-* use constuction lines 
+* use construction lines 
 * revole the sketch 
 * use fillet 
 
