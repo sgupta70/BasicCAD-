@@ -95,7 +95,7 @@ This was super fun to make, it wasn't too hard for me. I really enjoyed seeing h
 
 ### Description
 
-This assignment was to create the tire for the caster. We had to make a shape and then learn how to revolve it around a line. The trapezoid was 20 mm and 10 mm from the vertical line. The top line is 55 mm from the horizontal line, and the bottom line is 40 mm from the horizontal line. 
+This assignment was to create the tire for the caster. We had to make a shape and then learn how to revolve it around a line. The trapezoid was 20 mm wide at the bottom and the sides were 10 mm from the vertical line. The top line is 55 mm from the horizontal line, and the bottom line is 40 mm from the horizontal line. 
 
 ### Evidence
 
