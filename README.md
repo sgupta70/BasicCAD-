@@ -81,6 +81,8 @@ For the fork we had to sketch a circle which was 80 mm and 8 mm thick. Then we h
 * using fillets 
 * extruding 
 
+This was super fun to make, it wasn't too hard for me.
+
 ---
 
 
