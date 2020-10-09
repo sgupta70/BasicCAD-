@@ -122,7 +122,11 @@ I enjoyed using the revolve feature, but at first it was tricky for me to maek t
 
 ### Description
 
-### Evidence
+I had to make the wheel, to do that you we had to create three rectangles. One was 5 mm x 20 mm and 40 mm from the horizontal line, another was 20 mm in length and the top was 12.5 mm from the horizontal line and the bottom line was 5 mm. The last rectangle had a width of 5 mm. Then you will revolve it. 
+
+### Evidence 
+
+[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/cac9f3d75e2fc0be0abb8d80)
 
 ### Image
 
@@ -135,7 +139,12 @@ I enjoyed using the revolve feature, but at first it was tricky for me to maek t
 
 ### Description
 
+First we had to create the axle in order to do that we had to create two circles one with a diameter of 6 mm and the other with a diameter of 10 mm. Then we extruded that circle. Next we had to created the collar, for this I had to sketch a cirlce that was 15 mm in diameter and then extrude that. Finally I had to create the bearing which I put onto the wheel. 
+
 ### Evidence
+
+[The Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/fea014895edc63f74c1e9502)
+[The Bearing in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/cac9f3d75e2fc0be0abb8d80)
 
 ### Image
 
