@@ -135,6 +135,13 @@ I had to make the wheel, to do that you we had to create three rectangles. One w
 ### Reflection
 
 [I followed along with Dr. Shields made it super easy.](=https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) I learned how to 
+* sketch 
+* revolve three different rectangles 
+* extrude one region 
+* fillet
+* circular pattern
+
+It was pretty easy as I followed along with the video. When I was skethcing the rectangles I kind of messed up, which took me a little bit to fix. But I enjoyed seeing it all come together in the end. 
 
 ---
 
@@ -156,5 +163,10 @@ First we had to create the axle in order to do that we had to create two circles
 ![The Axle and COllar](images/Axle.png)
 
 ### Reflection
+
+[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_logo) While I Was doing this I learned how to 
+* sketch 
+* extrude 
+
 
 ---
