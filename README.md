@@ -130,6 +130,8 @@ I had to make the wheel, to do that you we had to create three rectangles. One w
 
 ### Image
 
+![The Wheel](images/TheWheel.png)
+
 ### Reflection
 
 ---
@@ -148,6 +150,8 @@ First we had to create the axle in order to do that we had to create two circles
 [The Bearing in Onshape](https://cvilleschools.onshape.com/documents/e85344a5f4f8df9e5c0031be/w/f9bc14d39c9806c02c45b668/e/cac9f3d75e2fc0be0abb8d80)
 
 ### Image
+
+![The Axle and COllar](images/TheAxle.png)
 
 ### Reflection
 
