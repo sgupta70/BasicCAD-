@@ -134,6 +134,8 @@ I had to make the wheel, to do that you we had to create three rectangles. One w
 
 ### Reflection
 
+[I followed along with Dr. Shields made it super easy.](=https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) I learned how to 
+
 ---
 
 
