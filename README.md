@@ -151,7 +151,7 @@ First we had to create the axle in order to do that we had to create two circles
 
 ### Image
 
-![The Axle and COllar](images/TheAxle.png)
+![The Axle and COllar](images/Axle.png)
 
 ### Reflection
 
