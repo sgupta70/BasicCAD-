@@ -184,7 +184,7 @@ This assignment was to put together the wheel and tire, and with it put in some 
 
 ### Image
 
-![The Base](images/Base.png)
+![The Sub Assembly](images/SubAssembly.png)
 
 ### Reflection
 
