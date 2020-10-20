@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base
 
@@ -173,18 +174,18 @@ This was really just using what I already knew to make it, so it wasn't hard. I 
 ---
 
 
-## Sub Assembly 
+## SubAssembly 
 
 ### Description
 
 This assignment was to put together the wheel and tire, and with it put in some bearings and a axle. 
 
 ### Evidence
-[The Sub Assembly in Onshape](https://cvilleschools.onshape.com/documents/b15772945d26f7922561d782/w/852cbcb323f939c5c3bed21a/e/a6c00ccdc7e0c74b134184e8)
+[The SubAssembly in Onshape](https://cvilleschools.onshape.com/documents/b15772945d26f7922561d782/w/852cbcb323f939c5c3bed21a/e/a6c00ccdc7e0c74b134184e8)
 
 ### Image
 
-![The Sub Assembly](images/SubAssembly.png)
+![The SubAssembly](images/SubAssembly.png)
 
 ### Reflection
 
