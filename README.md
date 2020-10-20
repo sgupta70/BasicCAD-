@@ -171,3 +171,26 @@ First we had to create the axle in order to do that we had to create two circles
 This was really just using what I already knew to make it, so it wasn't hard. I enjoyed being able to do it very easily. 
 
 ---
+
+
+## Sub Assembly 
+
+### Description
+
+This assignment was to put together the wheel and tire, and with it put in some bearings and a axle. 
+
+### Evidence
+[The Sub Assembly in Onshape](https://cvilleschools.onshape.com/documents/b15772945d26f7922561d782/w/852cbcb323f939c5c3bed21a/e/a6c00ccdc7e0c74b134184e8)
+
+### Image
+
+![The Base](images/Base.png)
+
+### Reflection
+
+[following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo)  I learned about 
+* fastening 
+* revole fastening 
+
+I really enjoyed seeing it all come together. This part wasn't too hard for me, I did need to re watch some parts over again, but i eventually got it. 
+
