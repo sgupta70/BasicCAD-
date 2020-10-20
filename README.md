@@ -214,9 +214,9 @@ This was putting everything all together, so we finshed the caster.
 
 ### Reflection
 
-[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) While I Was doing this I learned how to 
-* fasten 
-* revolute fasten
+[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) While I was doing this I learned how to 
+* fastened
+* revolute fastened
 * insert standard content 
 
 I did love putting it all together, I felt very accomplished at the end. I did have so problems which were hard to fix, and I had to do things ultiple times. But each time I learned something new, and the process was very fun.
