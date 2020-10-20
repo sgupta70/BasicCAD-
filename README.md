@@ -191,7 +191,34 @@ This assignment was to put together the wheel and tire, and with it put in some 
 
 [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo)  I learned about 
 * fastening 
-* revole fastening 
+* revolute fastening 
 
 I really enjoyed seeing it all come together. This part wasn't too hard for me, I did need to re watch some parts over again, but i eventually got it. 
 
+---
+
+
+## FinalAssembly
+
+### Description
+
+This was putting everything all together, so we finshed the caster. 
+
+### Evidence
+
+[The FinalAssembly in Onshape](https://cvilleschools.onshape.com/documents/31caf157050bf8540af0e79b/w/96ad95cac9cf86ab8079e506/e/d6b646b69a3c95b537f2a5ee)
+
+### Image
+
+![The FinalAssembly](images/Axle.png)
+
+### Reflection
+
+[I followed along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) While I Was doing this I learned how to 
+* fasten 
+* revolute fasten
+* insert standard content 
+
+I did love putting it all together, I felt very accomplished at the end. I did have so problems which were hard to fix, and I had to do things ultiple times. But each time I learned something new, and the process was very fun.
+
+---
