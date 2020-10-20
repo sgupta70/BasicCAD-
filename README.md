@@ -12,6 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [SubAssembly](#SubAssembly)
+* [FinalAssembly](#FinalAssembly)
 
 ## Base
 
@@ -210,7 +211,7 @@ This was putting everything all together, so we finshed the caster.
 
 ### Image
 
-![The FinalAssembly](images/Axle.png)
+![The FinalAssembly](images/FinalAssembly.png)
 
 ### Reflection
 
